@@ -44,3 +44,4 @@ for i in range(1, sheet.max_row + 1):
 print("new branch sprint26 1st commit")
 print("new branch sprint26 2nd commit")
 print("master branch 1st commit")
+print("conflict checkout 3rd commit from new branch sprint26")
