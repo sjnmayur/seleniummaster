@@ -39,4 +39,6 @@ def test_validatetitleimage(browserInstance):
     if diff.getbbox():
         print("images are as expected")
 
+    print("resolve this2 main")
+
     driver.quit()
