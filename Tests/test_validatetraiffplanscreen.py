@@ -39,5 +39,5 @@ def test_validatetitleimage(browserInstance):
     if diff.getbbox():
         print("images are as expected")
 
-print("resolve this 2nd from sprint9")
+    print("resolve this 2nd from sprint9")
     driver.quit()
